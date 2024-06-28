@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url);
+  height: 100vh;
 }
 
 body * {
@@ -150,4 +151,14 @@ footer{
   text-align: center;
   font-size: 20px;
   color: var(--text-color)
+}
+
+/*media queries */
+@media (min-width:700px) {
+  :root {
+    --bg-url: url(./fotos/bg-dark-mode.jpg);
+  }
+  .light {
+    --bg-url: url(./fotos/bg-light-mode.jpg);
+  }
 }
