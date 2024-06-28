@@ -12,9 +12,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="projeto Eminem" src=".github/fundo.jpg">
-</p>
-<p align="center">
   <img alt="projeto Eminem" src=".github/fundo.jpg" width="100%">
 </p>
 
@@ -29,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-MM is the GOAT.
+Eminem é o GOAT.
 
 ## 🔖 Layout
 
